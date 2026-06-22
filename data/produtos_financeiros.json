@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% da Selic",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva de emergência e iniciantes"
+  },
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "102% do CDI",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca segurança com rendimento diário"
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "95% do CDI",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+  },
+  {
+    "nome": "Fundo Imobiliário (FII)",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Dividend Yield (rendimento mensal de aluguéis) estimado entre 0,7% e 1,0% ao mês, isento de Imposto de Renda para pessoas físicas, além do potencial de valorização das cotas no longo prazo",
+    "aporte_minimo": 10.00,
+    "indicado_para": "Perfil moderado que busca renda passiva mensal, sem a necessidade de comprar um imóvel"
+  },
+  {
+    "nome": "Fundo de Ações",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil arrojado com foco no longo prazo"
+  }
+]
